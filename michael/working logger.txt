@@ -1,0 +1,37 @@
+# July 18 2023
+
+The technology framework of ERP system adopts springboot3(backend) + Vue/ ViteJS /Elment-plus (frontend).
+
+and exchange data-based REST API. Element plus make us reduce to design UI and Page. 
+
+Natalie said that develop function first, design web page when it finished.
+
+The result below for these days
+
+
+Result:
+
+1. Finished Java/spring boot/rest API framework/Common Exception handle/JSON response package define.
+
+2. Finished to build Vue framework, include router define/Axios request API etc.
+
+3. Developed User Logon/logout/User Info functions.
+
+4. Encapsulated some components based on element plus, aim to make the development easier later.
+
+5. Resolved some questions, CORS跨域访问 and make the Session ID consistency etc.
+
+6. Config proxy server and test the process.
+
+Generally, for now, the technology chosen is feasible, the front end and back end are good working.
+
+
+Next:
+
+Begin to learn the business logic and workflow to develop the functions based on the requirements.
+
+1. to develop the user manage to control the authority.
+
+2. to talk about the requirements and develop the functions.
+
+

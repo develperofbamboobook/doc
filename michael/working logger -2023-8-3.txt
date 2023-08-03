@@ -1,0 +1,35 @@
+Result:
+
+1. Developed some functions eg. User,Menu,Permissions management.
+
+User management is a full function, aim to complete the server and client communication，
+include upgrade the protocol with the pagination。
+
+2. Local storage to save condition
+
+Add query condition and default query with the above protocol.
+Save and init the query condition by the local storage with browser for good usage
+
+3.Developed svg component
+
+aim to use it in the process of development for better performance, including language switch picture/icon/others
+
+4.Prepared the working environment for Ray
+
+Installed all tools for development, including the eclipse for backend developing, vs code for frontend for frontend developing.
+
+Debug good all codes based on the new developing environment, Ray can use it at once.
+
+Add the version manage based on Git, and new codes can submit and fall back.
+
+Installed the team view client for remote login for Ray, because the laptop is a family version, the team view is better to use.
+
+Next:
+
+1. Ray and Natalie can gice me some business functions to develop
+
+2. Vigi and Carment will give some requirements based on the Excel macro and VBA to enhance the functions to fit the newest Excel.
+
+3. Remain time I will develop some base functions, such as multi-languages, and security, and optimize the UI to be more good-looking.
+
+4. Ray  can give me some db information to connect, the best way it's the UAT environment
