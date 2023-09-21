@@ -1,0 +1,36 @@
+Result：
+
+1. 
+I go through to enhance the Macro(vba) program with Vigi, Carmen, and Penny in these days.
+We use this enhanced Macro to finish printing invoices and sending emails on 15 Sep working.
+but I also need to compare the statement results between Handle and Marco in the end of this month.
+
+2.
+The Macro has been put on the shared drive already, just set up the security from the network,
+it can run on any machine and any version of Microsoft Excel.
+
+3.
+I have designed the invoice and statement web page and workflow,
+We had several meetings with Vigi Carmen and Penny to be sure that all of the workflow was suitable for them.
+I will talk about the workflow with Vigi, Carmen, and Penny in the process, It make sure the development is right always.
+
+4.
+I tried to make a solution to make the template of statement and email format for some special customers.
+So, I need to use Microsoft Graph which is Microsoft production, it can make us comply with the edit Excel template online.
+if so, web-based will be very flexible for any customers' requirements with their finance statement.
+
+Next step：
+
+Hi Ray and Leo:
+
+I need to get real data to fill the web page, the data includes customers' table, ADR tables, and invoice tables.
+
+So, could you let me know how to connect the database? 
+
+it's better to make me understand these tables, as well as the statistical statement regularly.
+
+If you give me some codes to generate invoice pdf and statement files, it will save much time for me.
+
+You can give me a UAT database account and password to connect it first.
+
+You can give me the Production database when I finish the testing right in UAT.
